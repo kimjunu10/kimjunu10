@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&pause=1000&color=000000&width=435&lines=Hello+I'm+Kim+Jun-woo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=25&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hello+I'm+Kim+Jun-woo)](https://git.io/typing-svg)
 <h3 align="center">Founding a startup at Cocone School</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/kim-junwoo/](https://www.linkedin.com/in/kim-junwoo/)
