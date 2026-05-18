@@ -106,18 +106,6 @@ LLM Agent, RAG, Multimodal Learning, Applied AI Systems에 관심이 있습니�
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kimjunu10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimjunu10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
----
-
 ## 🧠 Research Interests
 
 - Applied AI Systems
