@@ -1,5 +1,6 @@
-<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=25&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hello+I'm+Kim+Jun-woo)](https://git.io/typing-svg)
+<div align="center">
+
 ### AI Builder · Full-stack Developer · Research Student
 
 현실의 문제를 해결하는 **Agentic AI 기반 서비스**를 만들고 있습니다.  
